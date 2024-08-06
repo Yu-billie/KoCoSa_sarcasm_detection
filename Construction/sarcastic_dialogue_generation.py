@@ -49,7 +49,7 @@ Sarcastic response(B): 학원에 그렇게 기부를 많이 해도 되는거야?
         presence_penalty=0
     )
     
-    if type(response) == tuple: # sarcasm  끔 response가 tuple로 나오는 경우가 있어서 이렇게 만들었습니다.
+    if type(response) == tuple: # when sarcasm response comes out as a tuple
         return response[1] 
     else:
         return response
