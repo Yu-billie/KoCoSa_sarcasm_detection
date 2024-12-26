@@ -1,7 +1,13 @@
-# KoCoSa_sarcasm_detection
-Repository for "KoCoSa: Korean Context-aware Sarcasm Detection Dataset". You can read our paper [here](https://aclanthology.org/2024.lrec-main.864/). The paper has been published in COLING 2024.
+# KoCoSa: Korean Context-aware Sarcasm Detection Dataset
+Repository for KoCoSa dataset. The paper has been accepted in [COLING 2024](https://aclanthology.org/2024.lrec-main.864/).
 
-Authors: Yumin Kim\*, Heejae Suh\*, Mingi Kim\*, Dongyeon Won\* and Hwanhee Lee
+*Authors: Yumin Kim\*, Heejae Suh\*, Mingi Kim\*, Dongyeon Won\* and Hwanhee Lee*
+*Institutions: Chung-Ang University*
 
 \* Equally contributed.
 
+## Paper
+[KoCoSa: Korean Context-aware Sarcasm Detection Dataset](https://arxiv.org/abs/2402.14428) (arXiv version)
+
+## Huggingface Dataset
+[KoCoSa](https://huggingface.co/datasets/YuminKim/KoCoSa)
